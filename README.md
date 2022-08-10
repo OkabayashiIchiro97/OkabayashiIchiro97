@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itiro-okabayashi-278b39218/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8TcVUkpc4Qap0rghQS9W4w)
 
-![Okabayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkabayashiIchiro97&show_icons=true&theme=codeSTACKr)
+![Okabayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkabayashiIchiro97&show_icons=true&theme=slateorange)
 
 ## Technologies I use
 
