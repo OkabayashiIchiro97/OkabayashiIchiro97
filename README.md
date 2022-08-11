@@ -1,8 +1,10 @@
+<div style="background: #2D3039">
+
 # Hello! I'm Okabayashi Itiro 👋
 
-### - Currently looking for a job in Web Development Front-End.
+### - I am currently looking for a job in Web Development Front-End.
 ### - Studying about Node.js, Express.js and MySql at this moment.
-### - My main language in Portuguese and I can communicate in Japanese and English in an intermediary level
+### - My main language in Portuguese and I can also communicate in Japanese & English at an intermediary level
 </br>
 
 <div class="contact">
@@ -20,16 +22,16 @@
 
 </br>
 
+
 ## Technologies that I am familiar with are: 
 
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block; background:#2D3039 ">
 <img align="center" alt="Itiro-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Itiro-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Itiro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Itiro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Itiro-express" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img align="center" alt="Itiro-express" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"">
 <img align="center" alt="Itiro-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
 
-
-
+</div>
