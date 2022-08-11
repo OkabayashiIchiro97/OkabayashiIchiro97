@@ -15,10 +15,11 @@
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8TcVUkpc4Qap0rghQS9W4w)
 </div>
 </br>
-<div class="stats">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=OkabayashiIchiro97&show_icons=true&theme=slateorange">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkabayashiIchiro97&layout=compact&theme=slateorange">
+<div class="stats" style="display: flex">
+  <img height="180rem" max-width="40%" src="https://github-readme-stats.vercel.app/api?username=OkabayashiIchiro97&show_icons=true&theme=slateorange">
+  <img height="180rem" max-width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkabayashiIchiro97&layout=compact&theme=slateorange">
 </div>
+
 
 </br>
 
