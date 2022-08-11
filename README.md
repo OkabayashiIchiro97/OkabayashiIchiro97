@@ -5,6 +5,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8TcVUkpc4Qap0rghQS9W4w)
 
 ![Okabayashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkabayashiIchiro97&show_icons=true&theme=slateorange)
+[![Okabayashi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkabayashiIchiro97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies I use
 
