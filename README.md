@@ -1,4 +1,3 @@
-<div style="background: #2D3039">
 
 # Hello! I'm Okabayashi Itiro 👋
 
@@ -30,8 +29,7 @@
 <img align="center" alt="Itiro-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Itiro-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Itiro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Itiro-express" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"">
 <img align="center" alt="Itiro-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-</div>
+
